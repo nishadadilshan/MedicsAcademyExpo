@@ -15,6 +15,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+3. Create New Project
+
+   ```bash
+   npm install --global eas-cli
+   npx create-expo-app@latest
+   eas login
+   eas init --id expoprojectid - add your expo project id
+   ```
 
 In the output, you'll find options to open the app in a
 
