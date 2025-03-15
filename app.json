@@ -45,6 +45,12 @@
         "projectId": "ca8f6c34-a11f-412a-98d0-5843271f0486"
       }
     },
-    "owner": "medicsacadamy"
+    "owner": "medicsacadamy",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ca8f6c34-a11f-412a-98d0-5843271f0486"
+    }
   }
 }
